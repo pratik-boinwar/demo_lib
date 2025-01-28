@@ -1,4 +1,4 @@
-#include <Arduino.h>
+//#include <Arduino.h>
 #include "hello.h"
 
 void setup()

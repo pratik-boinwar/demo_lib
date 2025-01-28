@@ -1,7 +1,7 @@
-#include "hello.h"
+#include <hello.h>
 
 void myHello()
 {
-  Serial.printf("Hello Word");
+  Serial.println("Hello Word");
   delay(1000);
 }
